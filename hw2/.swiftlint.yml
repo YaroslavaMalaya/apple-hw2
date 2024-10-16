@@ -1,0 +1,6 @@
+disabled_rules:
+  - trailing_whitespace
+included:
+  - hw2
+
+line_length: 280
